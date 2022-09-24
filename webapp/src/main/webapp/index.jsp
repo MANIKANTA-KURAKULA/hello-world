@@ -1,4 +1,4 @@
 <h1>this is ci/cd pipeline<h1>
-  done by mani
-   thanks lord shiva
+  I love you nanna
+   ohm namh sivaya
   
